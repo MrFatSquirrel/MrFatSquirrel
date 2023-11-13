@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I'm currently working on my high scool finals project. Wish me luck!
 <!--
 **MrFatSquirrel/MrFatSquirrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
